@@ -5,13 +5,13 @@
 ### Long-Term Vision Statement
 Our idea sprung from the need to connect with others in an easy and efficient manner.
 Humans are very social beings and Agnoscis will help with making sure you are well connected with others.
-Our valuesa are honesty, justice and humanity. We strive to gain the trust of our clients and partners and will make sure that we are transparent in what we do and how we do it. One can say that humanity is in safer and smarter hands via the connections and collaborations we can provide through our AI software being worldwide.
+Our values are honesty, justice and humanity. We strive to gain the trust of our clients and partners and will make sure that we are transparent in what we do and how we do it. One can say that humanity is in safer and smarter hands via the connections and collaborations we can provide through our AI software being worldwide.
 #### The goals of Agnoscis are:
 * Helping bridge the gap between people not only in their social life, but also their professional lives. 
 * Build and connect with others across the globe
 * Create new interest groups
 * Reducing the amount of false identities online
-* Implement the use Deep Face recognition and applications on a larger spectrum
+* Implement the use Deep Face recognition and applications on a larger spectrum. <br>
 **The purpose of Agnoscis is to aid people in creating newer and better social links with others. In doing so you can live your life not worrying about making these relationships and spend more time growing those relationships.**
 The mission of Agnoscis is to help society become a safer place. Security camera systems with the aid of this technology can quickly identify dangerous criminals. 
 ### Existing External Opportunities
