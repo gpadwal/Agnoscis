@@ -23,8 +23,10 @@ Agnoscis will be presenting our machine learning services at the **World Summit 
 ### The Team
 * **Aaron Smith _(CEO)_** <br>
 Aaron Smith is the Chief Executive Officer of Agnoscis. Currently pursuing a Bachelor’s of Science Degree in Computer Science at CSU East Bay, Aaron is dedicated to ensuring a satisfying experience for people in the virtual world. As a man with a very mundane, middle class civilian background, Aaron understands the common man and the needs and demands they have for their systems.
-* **Asheesh Sagar _(COO)_**
-* **Steven Salabao _(CFO)_**
+* **Asheesh Sagar _(COO)_** <br>
+My name is Asheesh Sagar and I am the Chief Operating Officer at Agnoscis. I specialize in creating the operational, managerial and administrative procedures for the company. Additionally, I oversee and manage the growth in the executive team and the employees in general. I graduated from Harvard University with a Bachelor of Science in Business Management. Since joining Agnozcis, I have supervised the development and implementation of its world class machine learning algorithm called Ganson. I take pride in my work as a Chief Operating Officer and I find great exhilaration in managing and guiding projects that go on to enhance human lives. 
+* **Steven Salabao _(CFO)_** <br>
+Steven Salabao is a finance researcher and is currently pursuing a Bachelor’s of Science degree in Computer Science at CSU East Bay. He strives to make life easier for everyone so they have more time to do the things they love. Steven has experience as a quant in the financial industry and is more than capable of applying his knowledge of quantitative analysis in Agnoscis
 * **Manuel Gonzales _(CMO)_**
 
 * **Gurjot Padwal _(Executive Assistant)_** <br>
@@ -54,9 +56,10 @@ Here at Agnoscis, we value social connections. It is our belief that technology 
 We shall endeavour to be open to our consumers about what we do here at Agnoscis. 
 
 ### Board Requests/Recommendations:
-* PERSON 1
-* PERSON 2
-* PERSON 3
+* **Diane Bryant _(CTO)_**: <br>
+We hope to acquire Diana Bryant, Chairman and CEO at NovaSignal. She manages NovaSignal’s overall operations, leads the members of the Board and sets the company's governance and business standards. She graduated from the University of California, Davis with a Bachelor’s of Science in Electrical and Electronics Engineering. We would love to have her experience of working with AI technology and business/consumer products to help us evolve into a more versatile company.
+* **Brad Smith _(President)_**: <br>
+Having Brad Smith, Microsoft’s Current President and Princeton University graduate, would be beneficial for our management. He has over 28 years of experience at multiple levels at Microsoft, one of the most well-known tech behemoth. Brad has recently been a position where he oversees a wide variety of affairs relating to the company including its budget, staff and executives. With Brad’s history at a Microsoft, we believe it would be great to have him on the management team to potentially create positive pivotal opportunities for Agnoscis.
 
 ## Item 4: Experimentation/Policies
 
