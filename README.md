@@ -2,6 +2,8 @@
 > Let's Connect The World
 
 ## Item 1: Business Plan
+### What We Offer
+We are a Social Media company with world class machine learning algorithm called GANson. Imagine you take a group photo and your system automatically tags everyone in the photo without your input.
 ### Long-Term Vision Statement
 Our idea sprung from the need to connect with others in an easy and efficient manner.
 Humans are very social beings and Agnoscis will help with making sure you are well connected with others.
