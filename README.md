@@ -30,9 +30,9 @@ My name is Asheesh Sagar and I am the Chief Operating Officer at Agnoscis. I spe
 * **Steven Salabao _(CFO)_** <br>
 Steven Salabao is a finance researcher and is currently pursuing a Bachelor’s of Science degree in Computer Science at CSU East Bay. He strives to make life easier for everyone so they have more time to do the things they love. Steven has experience as a quant in the financial industry and is more than capable of applying his knowledge of quantitative analysis in Agnoscis
 * **Manuel Gonzales _(CMO)_**
-
+Manuel Gonzalez is the Chief Marketing Officer of Agnoscis. Manuel is currently pursuing a Bachelor’s in Computer Science at Cal State East Bay. His goal is to spread the word of our product, Agnoscis, to the far reaches of the world. We want our product improve the way our users create social links and the how our users socialize from now on.
 * **Gurjot Padwal _(Executive Assistant)_** <br>
-Gurjot S. Padwal is currently pursuing a Bachelor’s of Science in Computer Science Student at California State University East Bay and pursuing a Military Science Minor at University of California Berkeley. He is a determined individual working towards learning more and more about the use of AI in the civilian world and the use of it in the United States Army. With his experience in both civil and military life, he is able to give much more ethical insight to any projects that he is a part of. Gurjot has also completed a Data Science and Analytics course through Google which only adds to his ability to create and analyze multiple perspectives in any given situation.
+Gurjot Padwal is currently pursuing a Bachelor’s of Science in Computer Science Student at California State University East Bay and pursuing a Military Science Minor at University of California Berkeley. He is a determined individual working towards learning more and more about the use of AI in the civilian world and the use of it in the United States Army. With his experience in both civil and military life, he is able to give much more ethical insight to any projects that he is a part of. Gurjot has also completed a Data Science and Analytics course through Google which only adds to his ability to create and analyze multiple perspectives in any given situation.
 
 
 
