@@ -52,10 +52,12 @@ We would love to help our clients/customers create bonds with other individuals 
 
 ## Item 3: Ethics Policy
 ### Core Items
-**1. Create a community.** <br>
-Here at Agnoscis, we value social connections. It is our belief that technology should be used to bring people together. We will put our all into ensuring that our product will help people connect with each other and foster good relations within society. <br>
+**1. Create multiple communities that build off one another.** <br>
+Here at Agnoscis, we value social connections. It is our belief that technology should be used to bring people together. We will put our all into ensuring that our product will help people connect with each other and foster good relations within society. We will also ensure that the communities created by our software will continue to thrive and expand and hopefully become a part of larger ones to forge positive relationships between individuals with differing mindsets. <br>
 **2. Be transparent to the people.** <br>
-We shall endeavour to be open to our consumers about what we do here at Agnoscis. 
+We shall endeavour to be open to our consumers about what we do here at Agnoscis.  We believe trust is the foundation of all relationships and will always strive to gain and keep the trust of our clientele. <br>
+**3. Ensure user satisfaction and ease of use.** <br>
+We shall ensure that the user has a positive and beneficial experience with our products. We make sure that our software is simple and intuitive for our users, and that it functions as intended. <br>
 
 ### Board Requests/Recommendations:
 * **Diane Bryant _(CTO)_**: <br>
