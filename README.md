@@ -76,5 +76,13 @@ Having Brad Smith, Microsoft’s Current President and Princeton University grad
 ### Priorities: 
 _**Initial test group will be high quality portraits to help train the algorithms.**_ Dataset needs to be trimmed and pruned, ideally erroneous data should be sanitized for ethical purposes. Can use the smaller dataset to train the next model with group photos as reference, trim and prune the newest dataset. Third test will directly compare the two trimmed datasets with their original copies for discrepancies. **This model will be used with other dataset trained to associate text post and metadata information. The final model will correlate the image data with the text data (unsure).**
 
+### Prioritization:
+1. Initial test group will be high quality portraits to help train the algorithms. Dataset needs to be trimmed and pruned, erroneous data should be sanitized for ethical purposes.
+2. Can use the smaller dataset to train the next model with group photos as reference, trim and prune the newest dataset. 
+3. Third test will directly compare the two trimmed datasets with their original copies for discrepancies. 
+4. The final model will correlate the image data with the text data; this model will be used with other datasets trained to associate text post and metadata information from a photo, i.e the metadata says a picture was taken in New York and the text captions say Times Square.
+
+
+
 ### Presentation Link: https://youtu.be/aeOnZ5moU5k
 
